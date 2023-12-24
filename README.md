@@ -18,7 +18,7 @@ After training, the model is evaluated on a separate test set, achieving a test 
 ## Usage
 You can use this model to classify Fashion-MNIST images by following the instructions in the provided Jupyter Notebook. Ensure that you have the required dependencies installed.
 
-# Dependencies
+## Dependencies
 TensorFlow, 
 Keras,
 Other dependencies
